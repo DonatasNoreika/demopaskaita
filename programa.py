@@ -1,2 +1,2 @@
 print("Labas")
-input("Norėdami uždaryti spauskite ENTER")
+input("Jei norėsite uždaryti, spauskite ENTER")
